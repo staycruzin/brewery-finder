@@ -1,0 +1,15 @@
+.BreweryList-list-container {
+  padding: 0;
+  list-style-type: none;
+}
+
+.BreweryList-list-item {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.BreweryList-results-text {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}

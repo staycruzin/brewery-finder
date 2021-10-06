@@ -1,0 +1,27 @@
+.BreweryFilter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.BreweryFilter-flex-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.BreweryFilter-show-step {
+  display: block;
+}
+
+.BreweryFilter-hide-step {
+  display: none;
+}
+
+.BreweryFilter-button-container {
+  padding: 16px;
+}
+
+.BreweryFilter-submit-button {
+  margin-left: 16px;
+}
